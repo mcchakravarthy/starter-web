@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Chandan> -- <Assistant Professor> -- <kluniversity>
 
 # THANKS
 
