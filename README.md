@@ -3,6 +3,7 @@
 Adding a line for rebasing example
 =======
 Adding a line for rebasing example,the more changes from myfeature
+Updating emerggency fix
 >>>>>>> myfeature
 ## Introduction
 This is a simple  website project for showing how to use Git and Github together
