@@ -1,5 +1,9 @@
 # Starter Web Project
+<<<<<<< HEAD
 Adding a line for rebasing example
+=======
+Adding a line for rebasing example,the more changes from myfeature
+>>>>>>> myfeature
 ## Introduction
 This is a simple  website project for showing how to use Git and Github together
 ## Purpose
