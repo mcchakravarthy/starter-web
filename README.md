@@ -1,6 +1,6 @@
 # Starter Web Project
 <<<<<<< HEAD
-Adding a line for rebasing example
+Adding a line for multiple stash example
 =======
 Adding a line for rebasing example,the more changes from myfeature
 Updating emerggency fix
