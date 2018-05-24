@@ -14,5 +14,5 @@ Please fork this repository and then issue pull requests for review
 ## Deployment
 This is a simple web project deployment can be on nay web seerver or even local file system
 ###COPYRIGHT
-2014.Git Training
+2014.Git Training All Rights Reserved.
 
